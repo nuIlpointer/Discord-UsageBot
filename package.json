@@ -1,0 +1,17 @@
+{
+  "name": "discord-usagebot",
+  "version": "1.0.3",
+  "description": "System utilization bot for discord",
+  "main": "bot.js",
+  "dependencies": {
+    "node-cron": "^2.0.3",
+    "eris": "^0.10.1",
+    "os-utils": "^0.0.14"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nuilpointer",
+  "license": "ISC"
+}
