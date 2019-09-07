@@ -1,0 +1,3 @@
+# Discord-UsageBot
+システム情報を表示するDiscordのBot
+Erisモジュールとos-utilsモジュール、node-cronモジュールを使用しています
